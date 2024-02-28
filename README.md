@@ -63,7 +63,7 @@ I see every web project as an opportunity to solve a problem and enrich the user
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-<h3>Contact me</h3>
+<h3>Contact me!</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rossetto-aa231292/)](https://www.linkedin.com/in/gabriel-rossetto-aa231292/)
 [![Gmail Badge](https://img.shields.io/badge/-rossetto.gabriel.santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rossetto.gabriel.santos@gmail.com)](mailto:rossetto.gabriel.santos@gmail.com)
